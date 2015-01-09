@@ -1,0 +1,73 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-08 BZR 5360)-product   date = 2015-01-09T04:28:46 CET
+
+BeginCmp
+TimeStamp = /54AF2BB5;
+Reference = J1;
+ValeurCmp = USB_MALE;
+IdModule  = Connectors:USB_A_Male;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AF29FE;
+Reference = J2;
+ValeurCmp = USB_FEMALE;
+IdModule  = Connectors:USB_A_Female;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AF3256;
+Reference = J3;
+ValeurCmp = USB_FEMALE_WITH_ID;
+IdModule  = Connectors:USB_Micro-B_Female_Wellco_AUSB_1011_05S2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AF32D6;
+Reference = J4;
+ValeurCmp = USB_FEMALE_WITH_ID;
+IdModule  = Connectors:USB_Mini-B_Female;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AF3FE0;
+Reference = J5;
+ValeurCmp = USB_MALE;
+IdModule  = Connectors:USB_A_Male;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AF3FDA;
+Reference = J6;
+ValeurCmp = USB_FEMALE;
+IdModule  = Connectors:USB_A_Female;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AF3FE6;
+Reference = J7;
+ValeurCmp = USB_FEMALE_WITH_ID;
+IdModule  = Connectors:USB_Mini-B_Female;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AF3FEC;
+Reference = J8;
+ValeurCmp = USB_FEMALE_WITH_ID;
+IdModule  = Connectors:USB_Micro-B_Female_Wellco_AUSB_1011_05S2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AF3805;
+Reference = P1;
+ValeurCmp = CONN_6;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AF4005;
+Reference = P2;
+ValeurCmp = CONN_6;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
+EndCmp
+
+EndListe
